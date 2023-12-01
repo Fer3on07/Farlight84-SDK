@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/stars/Fer3on07/Farlight84-SDK)
+![](https://img.shields.io/github/forks/Fer3on07/Farlight84-SDK)
+
 # Farlight84-SDK
 Updated Farlight84 offsets for steam version and standalone launcher
 
