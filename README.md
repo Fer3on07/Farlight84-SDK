@@ -10,7 +10,7 @@ Updated Farlight84 offsets for steam version and standalone launcher
 [Farlight 84 Reversal, Structs and Offsets](https://www.unknowncheats.me/forum/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)
 
 ### Copyrights
-- Free Knowladge
+- Free Knowledge
   - [Unknowncheats forum](https://www.unknowncheats.me)
 - guttir14
   - [UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
