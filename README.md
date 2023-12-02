@@ -12,7 +12,7 @@ Updated Farlight84 offsets for steam version and standalone launcher
 ### Copyrights
 - Free Knowladge
   - [Unknowncheats forum](https://www.unknowncheats.me)
-- @guttir14
+- guttir14
   - [UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
 - IDA Pro
   - [hex-rays](https://hex-rays.com/ida-pro/)
