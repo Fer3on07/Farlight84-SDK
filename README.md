@@ -10,7 +10,7 @@ Updated Farlight84 offsets for steam version and standalone launcher
 [Farlight 84 Reversal, Structs and Offsets](https://www.unknowncheats.me/forum/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)
 
 ## For IOS Offsets check out:
-[Farlight84_iOS_SDK](https://github.com/silentninjabee/Farlight84_iOS_SDK) By silentninjabee
+### [Farlight84_iOS_SDK](https://github.com/silentninjabee/Farlight84_iOS_SDK) By silentninjabee
 
 ### Copyrights
 - Free Knowledge
