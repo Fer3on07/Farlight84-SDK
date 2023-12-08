@@ -15,9 +15,9 @@
 
 namespace offsets {
     // GAME
-    const std::uint32_t GWorld = 0x6FD55B8;
-    const std::uint32_t GNames = 0x6E5D000;
-    const std::uint32_t GOBJECT = 0x6E75980;
+    const std::uint32_t GWorld = 0x6FD5638;
+    const std::uint32_t GNames = 0x6E5D080;
+    const std::uint32_t GOBJECT = 0x06E75A00;
 
     // Launcher
     const std::uint32_t Launcher_GWorld = 0x6FD45B8;
