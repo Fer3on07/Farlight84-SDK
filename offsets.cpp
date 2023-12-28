@@ -45,7 +45,7 @@ namespace offsets {
     const std::uint32_t BoneArray = 0x598;
     const std::uint32_t ComponentToWorld = 0x250;
     const std::uint32_t Mesh = 0x288;
-    const std::uint32_t StaticMesh = 0x588;
+    const std::uint32_t StaticMesh = 0x5c0;
 
     // ACTOR
     const std::uint32_t PlayerNamePrivate = 0x310;
