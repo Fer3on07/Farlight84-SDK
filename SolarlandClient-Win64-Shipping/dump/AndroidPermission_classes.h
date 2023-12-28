@@ -9,7 +9,7 @@ struct UAndroidPermissionCallbackProxy : UObject {
 // Size: 0x28 (Inherited: 0x28)
 struct UAndroidPermissionFunctionLibrary : UBlueprintFunctionLibrary {
 
-	bool CheckPermission(struct FString Permission); // Function AndroidPermission.AndroidPermissionFunctionLibrary.CheckPermission // (Final|Native|Static|Public|BlueprintCallable) // @ game+0x9f0a20
-	struct UAndroidPermissionCallbackProxy* AcquirePermissions(struct TArray<struct FString>& Permissions); // Function AndroidPermission.AndroidPermissionFunctionLibrary.AcquirePermissions // (Final|Native|Static|Public|HasOutParms|BlueprintCallable) // @ game+0xb697a0
+	bool CheckPermission(struct FString Permission); // Function AndroidPermission.AndroidPermissionFunctionLibrary.CheckPermission // (Final|Native|Static|Public|BlueprintCallable) // @ game+0x9f1b00
+	struct UAndroidPermissionCallbackProxy* AcquirePermissions(struct TArray<struct FString>& Permissions); // Function AndroidPermission.AndroidPermissionFunctionLibrary.AcquirePermissions // (Final|Native|Static|Public|HasOutParms|BlueprintCallable) // @ game+0xb6a8b0
 };
 

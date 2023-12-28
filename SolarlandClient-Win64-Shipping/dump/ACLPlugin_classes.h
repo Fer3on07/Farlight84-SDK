@@ -7,8 +7,8 @@ struct UAnimationCompressionLibraryDatabase : UObject {
 	uint32_t MaxStreamRequestSizeKB; // 0x150(0x04)
 	char pad_154[0x4]; // 0x154(0x04)
 
-	void SetVisualFidelity(struct UObject* WorldContextObject, struct FLatentActionInfo LatentInfo, struct UAnimationCompressionLibraryDatabase* DatabaseAsset, enum class ACLVisualFidelityChangeResult& Result, enum class ACLVisualFidelity VisualFidelity); // Function ACLPlugin.AnimationCompressionLibraryDatabase.SetVisualFidelity // (Final|Native|Static|Public|HasOutParms|BlueprintCallable) // @ game+0x1c469b0
-	enum class ACLVisualFidelity GetVisualFidelity(struct UAnimationCompressionLibraryDatabase* DatabaseAsset); // Function ACLPlugin.AnimationCompressionLibraryDatabase.GetVisualFidelity // (Final|Native|Static|Public|BlueprintCallable) // @ game+0x1c46920
+	void SetVisualFidelity(struct UObject* WorldContextObject, struct FLatentActionInfo LatentInfo, struct UAnimationCompressionLibraryDatabase* DatabaseAsset, enum class ACLVisualFidelityChangeResult& Result, enum class ACLVisualFidelity VisualFidelity); // Function ACLPlugin.AnimationCompressionLibraryDatabase.SetVisualFidelity // (Final|Native|Static|Public|HasOutParms|BlueprintCallable) // @ game+0x1c46a70
+	enum class ACLVisualFidelity GetVisualFidelity(struct UAnimationCompressionLibraryDatabase* DatabaseAsset); // Function ACLPlugin.AnimationCompressionLibraryDatabase.GetVisualFidelity // (Final|Native|Static|Public|BlueprintCallable) // @ game+0x1c469e0
 };
 
 // Class ACLPlugin.AnimBoneCompressionCodec_ACLBase
