@@ -4,7 +4,7 @@
 # Farlight84-SDK
 Updated Farlight84 offsets for steam version and standalone launcher
 
-```Latest update: Dec 9, 2024;```
+```Latest update: Dec 31, 2024;```
 
 ## More Information
 [Farlight 84 Reversal, Structs and Offsets](https://www.unknowncheats.me/forum/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)
