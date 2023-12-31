@@ -42,7 +42,7 @@ namespace offsets {
     const std::uint32_t RelativeRotation = 0x128;
     const std::uint32_t ComponentVelocity = 0x140;
     const std::uint32_t ActorID = 0x18;
-    const std::uint32_t BoneArray = 0x598;
+    const std::uint32_t BoneArray = 0x5D0;
     const std::uint32_t ComponentToWorld = 0x250;
     const std::uint32_t Mesh = 0x288;
     const std::uint32_t StaticMesh = 0x5c0;
