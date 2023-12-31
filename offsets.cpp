@@ -20,9 +20,9 @@ namespace offsets {
     const std::uint32_t GOBJECT = 0x6E79B00;
 
     // Launcher
-    const std::uint32_t Launcher_GWorld = 0x6FD45B8;
-    const std::uint32_t Launcher_GNames = 0x6E5C000;
-    const std::uint32_t Launcher_GOBJECT = 0x6E74980;
+    const std::uint32_t Launcher_GWorld = 0x6FD76F8;
+    const std::uint32_t Launcher_GNames = 0x6E5F180;
+    const std::uint32_t Launcher_GOBJECT = 0x6E77B00;
 
     // WORLD
     const std::uint32_t OwningGameInstance = 0x0220;
